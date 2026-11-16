@@ -1,2 +1,2 @@
 # Mon premier projet Git
-je travaille sur la branche master.
+je travaille sur la branche master et develop.
